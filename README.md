@@ -1,6 +1,7 @@
 <h1> Vite-Axios-Json Server CRUD Project </h1>
 
 <h2> CRUD gif </h2>
+
 ![] (screen.gif)
 
 # Vite Proje için Adımlar
