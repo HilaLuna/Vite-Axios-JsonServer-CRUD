@@ -2,7 +2,7 @@
 
 <h2> Screen gif CRUD Project </h2>
 
-![](screen.gif)
+![Vite](screen.gif)
 
 # Vite Proje için Adımlar
 
