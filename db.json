@@ -2,7 +2,7 @@
   "todos": [
     {
       "id": "16aba849-0618-4b3a-be7f-ee8f4b6155fc",
-      "title": "javaaa",
+      "title": "java öğren",
       "status": "default",
       "date": "6/9/2024"
     },
@@ -91,21 +91,15 @@
       "date": "6/30/2024"
     },
     {
-      "id": "41f757d3-de5d-4295-b370-d85360d4a85f",
-      "title": "coding is great",
-      "status": "important",
-      "date": "7/14/2024"
-    },
-    {
       "id": "da9e48c4-712d-4dd3-91b4-163e1f324e2b",
       "title": "study react",
       "status": "daily",
       "date": "7/14/2024"
     },
     {
-      "id": "1d3ba1ad-159d-48e9-87ea-b44cc8829968",
-      "title": "study typescript",
-      "status": "job",
+      "id": "c98d9deb-ac7f-4c31-a1c2-9c0e6733d72a",
+      "title": "study react",
+      "status": "important",
       "date": "7/14/2024"
     }
   ],
