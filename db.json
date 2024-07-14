@@ -1,0 +1,142 @@
+{
+  "todos": [
+    {
+      "id": "16aba849-0618-4b3a-be7f-ee8f4b6155fc",
+      "title": "javaaa",
+      "status": "default",
+      "date": "6/9/2024"
+    },
+    {
+      "id": "f82a2e38-bc7a-4297-9999-03281e7f132f",
+      "title": "Axios öğren",
+      "status": "important",
+      "date": "6/30/2024"
+    },
+    {
+      "id": "68341c6e-f1c1-446b-9d0e-1f6e7c137ab5",
+      "title": "Nextjs öğren",
+      "status": "job",
+      "date": "6/30/2024"
+    },
+    {
+      "id": "979e4ad9-4e65-4175-81ca-c022e228a7ad",
+      "title": "complete tasks",
+      "status": "daily",
+      "date": "6/30/2024"
+    },
+    {
+      "id": "6589bfd4-38be-4aec-bf99-ac942dc3e613",
+      "title": "study",
+      "status": "daily",
+      "date": "6/30/2024"
+    },
+    {
+      "id": "52242d66-f79e-4872-90ea-3ca58002ac6a",
+      "title": "selam",
+      "status": "Varsayılan",
+      "date": "6/30/2024"
+    },
+    {
+      "id": "a8506917-0eef-4c39-94b2-f3d5bd44165a",
+      "title": "ses",
+      "status": "important",
+      "date": "6/30/2024"
+    },
+    {
+      "id": "2aff1e1b-1d9c-4ea4-873e-d4fdf220fd49",
+      "title": "learn Js",
+      "status": "job",
+      "date": "6/30/2024"
+    },
+    {
+      "id": "d4b1780f-a62d-4a3d-a91d-9fdd3a60da20",
+      "title": "fcsasd",
+      "status": "job",
+      "date": "6/30/2024"
+    },
+    {
+      "id": "ee5df0cc-1e81-49fb-b523-981a57601f5b",
+      "title": "dsfdsg",
+      "status": "important",
+      "date": "6/30/2024"
+    },
+    {
+      "id": "e22368e6-d6c5-4dd1-b247-8d9d09ccee04",
+      "title": "dsfdsg",
+      "status": "important",
+      "date": "6/30/2024"
+    },
+    {
+      "id": "72db99eb-7f66-4856-be9f-89100e65e169",
+      "title": "jythjgj",
+      "status": "daily",
+      "date": "6/30/2024"
+    },
+    {
+      "id": "818a404d-1b3b-4492-b6b5-3f62a411c2f6",
+      "title": "adawdwfe",
+      "status": "job",
+      "date": "6/30/2024"
+    },
+    {
+      "id": "84743d35-12a1-4787-81b4-8f5d0fbe91b3",
+      "title": "gregreg",
+      "status": "important",
+      "date": "6/30/2024"
+    },
+    {
+      "id": "1c502476-5146-45aa-8859-2bf91eeb3750",
+      "title": "gfhghn",
+      "status": "daily",
+      "date": "6/30/2024"
+    },
+    {
+      "id": "41f757d3-de5d-4295-b370-d85360d4a85f",
+      "title": "coding is great",
+      "status": "important",
+      "date": "7/14/2024"
+    },
+    {
+      "id": "da9e48c4-712d-4dd3-91b4-163e1f324e2b",
+      "title": "study react",
+      "status": "daily",
+      "date": "7/14/2024"
+    },
+    {
+      "id": "1d3ba1ad-159d-48e9-87ea-b44cc8829968",
+      "title": "study typescript",
+      "status": "job",
+      "date": "7/14/2024"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Ali"
+    },
+    {
+      "id": "2",
+      "name": "Ayşe"
+    }
+  ],
+  "activity": [
+    {
+      "id": "105",
+      "info": "hesap banlandı3",
+      "date": "10/10/2025",
+      "price": 104
+    },
+    {
+      "id": "103",
+      "info": "hesap banlandı",
+      "date": "10/01/2024",
+      "price": 200
+    },
+    {
+      "id": "104",
+      "info": "hesap banlandı2",
+      "date": "10/02/2024",
+      "price": 50
+    }
+  ]
+}
